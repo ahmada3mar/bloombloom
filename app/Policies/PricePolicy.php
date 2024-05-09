@@ -3,7 +3,7 @@
 namespace App\Policies;
 
 
-class UserPolicy extends Policy
+class PricePolicy extends Policy
 {
 
 }

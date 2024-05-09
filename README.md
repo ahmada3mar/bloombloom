@@ -7,9 +7,13 @@ git clone https://github.com/ahmada3mar/bloombloom.git
 
 cd .\bloombloom
 
+cp .env.example .env
+
 composer install
 
 ```
+
+** don't forget to update `.env. file **
 
 ## Run the migration and seeder
 
